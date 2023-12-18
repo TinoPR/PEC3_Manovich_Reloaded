@@ -22,7 +22,7 @@ Para completar este concepto, y siguiendo con Manovich,
 > *"La hibridación es un mecanismo en el que “se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.”*
 
 ## Strava
-![Strava](https://upload.wikimedia.org/wikipedia/en/2/2e/Strava_cycling_screenshot.png)
+![Strava](https://www.sportlife.es/uploads/s1/12/76/34/13/strava-vista-pajaro.jpeg)
 
 **Strava es la comunidad de deportistas más grande del mundo**, con más de 100 millones de usuarios registrados a lo largo de 195 países. Es la plataforma de referencia para cualquier persona que realiza actividad física, independientemente de su nivel, objetivos y condición física. Ofrece más de 30 tipos distintos de actividades físicas, entre las que destacan el ciclismo, running, natación o el senderismo, con diversas funciones que permiten a sus usuarios explorar, socializar y monitorizar su progreso. 
 
@@ -36,6 +36,7 @@ Como principales funciones de la plataforma destacan:
 
 ## Zwift
 ![Zwift](https://www.ciclismoafondo.es/uploads/static/ciclismo/upload/images/gallery/5e8c2b640ee694156a349565/5e8c32700ce694a15d8b47d2-al-detalle-simulador-de-ciclismo-zwift.jpg)
+
 **Zwift es una plataforma enfocada a ciclistas, runners y triatletas** de todo tipo y condición, desde principiantes hasta profesionales. Conecta a personas a lo largo de todo el mundo creando una gran comunidad compuesta por miles de deportistas que disfrutan de sus servicios y practican deporte sin moverse del salón de su casa.
 
 Para realizar las actividades propuestas tan solo es necesario disponer de una bicicleta y un rodillo compatible, en el caso del ciclismo, y de unas zapatillas y un pequeño sensor alojado en una de las zapatillas para el caso del running.
@@ -67,5 +68,5 @@ Como señala Manovich en su libro “El software toma el mando” (2013),
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes Wikipedia
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes Wikipedia, Ciclismo a Fondo
 

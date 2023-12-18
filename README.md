@@ -35,7 +35,7 @@ Como principales funciones de la plataforma destacan:
 **Para la ejecución de todas estas funciones se fusionan distintos medios en una única plataforma: vídeo, fotografía, gráficos, seguimiento en directo vía satélite, comunicaciones instantáneas a través del mismo “muro de la actividad”**… Un muro desde el que puedes acceder al mismo tiempo, sin tener que utilizar otro tipo de reproductor o visor, a todas las funciones descritas anteriormente, cumpliéndose de esta manera uno de los principios de Manovich sobre la hibridación: “… los medios se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.”
 
 ## Zwift
-![Zwift](https://upload.wikimedia.org/wikipedia/commons/c/cd/Zwift_logo.png)
+![Zwift](https://www.ciclismoafondo.es/uploads/static/ciclismo/upload/images/gallery/5e8c2b640ee694156a349565/5e8c32700ce694a15d8b47d2-al-detalle-simulador-de-ciclismo-zwift.jpg)
 **Zwift es una plataforma enfocada a ciclistas, runners y triatletas** de todo tipo y condición, desde principiantes hasta profesionales. Conecta a personas a lo largo de todo el mundo creando una gran comunidad compuesta por miles de deportistas que disfrutan de sus servicios y practican deporte sin moverse del salón de su casa.
 
 Para realizar las actividades propuestas tan solo es necesario disponer de una bicicleta y un rodillo compatible, en el caso del ciclismo, y de unas zapatillas y un pequeño sensor alojado en una de las zapatillas para el caso del running.

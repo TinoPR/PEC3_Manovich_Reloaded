@@ -67,5 +67,5 @@ Como señala Manovich en su libro “El software toma el mando” (2013),
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes Wikipedia
 

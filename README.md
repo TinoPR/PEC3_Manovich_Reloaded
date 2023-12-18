@@ -60,3 +60,7 @@ Como señala Manovich en su libro “El software toma el mando” (2013),
 - Xataca (2019). *¿Qué es Github y qué es lo que ofree a los desarrolladores?* https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores
 - Zwift (2023). https://www.zwift.com/eu-es/home
 
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes
+

@@ -6,6 +6,8 @@
 **Fecha:** 18/12/2023
 
 ## Sobre Manovich
+![Fotografía de Lev Manovich](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg/800px-Lev_Manovich_%E2%80%94_How_to_analyze_culture_using_social_networks.jpg)
+
 **Lev Manovich es una de las personas más influyentes de la cultura digital** a nivel mundial. Nació en Moscú en 1960, donde estudió arte, arquitectura e informática. En 1981 se trasladó a Nueva York, lugar donde siguió ampliando sus conocimientos. Allí realizó una maestría en Psicología Experimental (NYU, 1988),  trabajó en animación por ordenador y completó un doctorado en Estudios Visuales y Culturales (Universidad de Rochester, 1993).
 
 Manovich lleva trabajando en el mundo multimedia desde 1984, como artista, diseñador y desarrollador. Es además autor de varios libros, entre los que destacan “El lenguaje de los nuevos medios de comunicación: la imagen en la era digital” (2001), traducido a trece idiomas, o el protagonista de este ensayo, “El Software toma el mando” (2013), donde realiza una amplia exposición sobre el tema que nos ocupa: **La Hibridación**.
@@ -20,6 +22,8 @@ Para completar este concepto, y siguiendo con Manovich,
 > *"La hibridación es un mecanismo en el que “se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.”*
 
 ## Strava
+![Strava](https://upload.wikimedia.org/wikipedia/en/2/2e/Strava_cycling_screenshot.png)
+
 **Strava es la comunidad de deportistas más grande del mundo**, con más de 100 millones de usuarios registrados a lo largo de 195 países. Es la plataforma de referencia para cualquier persona que realiza actividad física, independientemente de su nivel, objetivos y condición física. Ofrece más de 30 tipos distintos de actividades físicas, entre las que destacan el ciclismo, running, natación o el senderismo, con diversas funciones que permiten a sus usuarios explorar, socializar y monitorizar su progreso. 
 
 Como principales funciones de la plataforma destacan:
@@ -31,6 +35,7 @@ Como principales funciones de la plataforma destacan:
 **Para la ejecución de todas estas funciones se fusionan distintos medios en una única plataforma: vídeo, fotografía, gráficos, seguimiento en directo vía satélite, comunicaciones instantáneas a través del mismo “muro de la actividad”**… Un muro desde el que puedes acceder al mismo tiempo, sin tener que utilizar otro tipo de reproductor o visor, a todas las funciones descritas anteriormente, cumpliéndose de esta manera uno de los principios de Manovich sobre la hibridación: “… los medios se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.”
 
 ## Zwift
+![Zwift](https://upload.wikimedia.org/wikipedia/commons/c/cd/Zwift_logo.png)
 **Zwift es una plataforma enfocada a ciclistas, runners y triatletas** de todo tipo y condición, desde principiantes hasta profesionales. Conecta a personas a lo largo de todo el mundo creando una gran comunidad compuesta por miles de deportistas que disfrutan de sus servicios y practican deporte sin moverse del salón de su casa.
 
 Para realizar las actividades propuestas tan solo es necesario disponer de una bicicleta y un rodillo compatible, en el caso del ciclismo, y de unas zapatillas y un pequeño sensor alojado en una de las zapatillas para el caso del running.
